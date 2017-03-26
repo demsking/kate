@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kpartgui>
+<gui name="katejshint" library="libkatejshintplugin" version="5" translationDomain="katejshint">
+  <MenuBar>
+    <Menu name="JSHint">
+      <text>&amp;JSHint</text>
+      <Action name="jshint"/>
+    </Menu>
+  </MenuBar>
+</gui>
+<!-- kate: space-indent on; indent-width 4; replace-tabs on; -->
+<!-- Should I change version to 6? -->
